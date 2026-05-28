@@ -1,0 +1,32 @@
+aid: udemy-instructor
+name: Udemy(instructor)
+description: "API for instructors on Udemy"
+url: https://www.udemy.com/developers/instructor/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Personality"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Personality
+  - Public APIs
+apis:
+  - name: Udemy(instructor)
+    description: "API for instructors on Udemy"
+    humanURL: https://www.udemy.com/developers/instructor/
+    baseURL: https://www.udemy.com/developers/instructor/
+    tags:
+      - Personality
+    properties:
+      - type: Documentation
+        url: https://www.udemy.com/developers/instructor/
+common:
+  - type: Website
+    url: https://www.udemy.com/developers/instructor/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
