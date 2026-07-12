@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://www.udemy.com/developers/instructor/
 common:
+  - type: TrustCenter
+    url: security/udemy-instructor-trust-center.yml
+  - type: DomainSecurity
+    url: security/udemy-instructor-domain-security.yml
   - type: Website
     url: https://www.udemy.com/developers/instructor/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://medium.com/feed/udemy-engineering
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
