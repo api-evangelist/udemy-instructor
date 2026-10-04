@@ -39,7 +39,6 @@ apis:
   - name: Udemy(instructor)
     description: "API for instructors on Udemy"
     humanURL: https://www.udemy.com/developers/instructor/
-    baseURL: https://www.udemy.com/developers/instructor/
     tags:
       - Personality
     properties:
